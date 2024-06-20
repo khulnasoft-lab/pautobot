@@ -57,7 +57,7 @@ def get_long_description():
 
 
 setup(
-    name="pautobot",
+    name="fastagi",
     version=get_version(),
     packages=find_packages(),
     description="Private AutoGPT Robot - Your private task assistant with GPT!",
