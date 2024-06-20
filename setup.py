@@ -88,7 +88,7 @@ setup(
     include_package_data=True,
     entry_points={
         "console_scripts": [
-            "pautobot=pautobot.app:main",
+            "fastagi=pautobot.app:main",
             "pautobot.ingest=pautobot.ingest:main",
         ],
     },
