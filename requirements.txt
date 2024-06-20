@@ -1,7 +1,7 @@
 langchain==0.0.194
 gpt4all==0.3.0
 chromadb==0.3.23
-urllib3==2.0.2
+urllib3==2.2.2
 pdfminer.six==20221105
 unstructured==0.6.6
 extract-msg==0.41.1
